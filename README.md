@@ -4,7 +4,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Contact Info :
 
 - :zap:  Social Media: [Twitter](https://twitter.com/PierreIsLying2U/), [Mastodon](https://infosec.exchange/@PierreIsLying2U), and [Tumblr](https://tumblr.com/pierreislying2u)
 
